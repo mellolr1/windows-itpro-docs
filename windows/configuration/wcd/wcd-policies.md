@@ -462,7 +462,7 @@ DisableContextMenus | Prevent context menus from being invoked in the Start menu
 | [HideUserTile](/windows/client-management/mdm/policy-configuration-service-provider#start-hideusertile)  |  Hide the user tile. | X |  |  |  |  |
 | [ImportEdgeAssets](/windows/client-management/mdm/policy-configuration-service-provider#start-importedgeassets) | Import Edge assets for secondary tiles. For more information, see [Add image for secondary Microsoft Edge tiles](../start-secondary-tiles.md).  | X |  |  |  |  |
 | [NoPinningToTaskbar](/windows/client-management/mdm/policy-configuration-service-provider#start-nopinningtotaskbar) | Prevent users from pinning and unpinning apps on the taskbar. | X |  |  |  |  |
-| [StartLayout](/windows/client-management/mdm/policy-configuration-service-provider#start-startlayout) | Apply a custom Start layout. For more information, see [Customize Windows 10 Start and taskbar with provisioning packages](../customize-windows-10-start-screens-by-using-provisioning-packages-and-icd.md) | X |  |  |  |  |
+| [StartLayout](/windows/client-management/mdm/policy-configuration-service-provider#start-startlayout) | Apply a custom Start layout. For more information, see [Customize Windows 10 Start and taskbar with provisioning packages](../customize-windows-10-start-screens-by-using-provisioning-packages-and-icd.md) | X |  | X |  |  |
 
 ## System
 
